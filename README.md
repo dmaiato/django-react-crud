@@ -1,5 +1,5 @@
 ## How to run the project
-###create a python .venv
+### create a python .venv
 ```bash
 python -m venv .venv
 source .venv/Scripts/activate
