@@ -7,7 +7,7 @@ source .venv/Scripts/activate
 
 ### install the dependencies on the requirements.txt file
 ```bash
-python -m pip install -r rquirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ### cd into the backend folder and run the server
